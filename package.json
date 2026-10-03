@@ -1,0 +1,21 @@
+{
+  "name": "express-metrics-api",
+  "version": "1.0.0",
+  "description": "A lightweight Express.js REST API providing system metrics and uptime status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "metrics",
+    "backend"
+  ],
+  "author": "westrox1337",
+  "license": "MIT"
+}
